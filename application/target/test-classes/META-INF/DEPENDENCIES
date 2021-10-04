@@ -1,0 +1,39 @@
+// ------------------------------------------------------------------
+// Transitive dependencies of this project determined from the
+// maven pom organized by organization.
+// ------------------------------------------------------------------
+
+Apache Royale Jewel Application :: application
+
+
+From: 'The Apache Software Foundation' (https://www.apache.org/)
+  - Apache Royale: Framework: Libs: Basic (https://www.apache.org/royale-framework-parent/frameworks/projects/Basic/) org.apache.royale.framework:Basic:swc:0.9.8
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Royale: Framework: Libs: Binding (https://www.apache.org/royale-framework-parent/frameworks/projects/Binding/) org.apache.royale.framework:Binding:swc:0.9.8
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Royale: Framework: Libs: Collections (https://www.apache.org/royale-framework-parent/frameworks/projects/Collections/) org.apache.royale.framework:Collections:swc:0.9.8
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Royale: Framework: Libs: Core (https://www.apache.org/royale-framework-parent/frameworks/projects/Core/) org.apache.royale.framework:Core:swc:0.9.8
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Royale: Framework: Libs: Formatters (https://www.apache.org/royale-framework-parent/frameworks/projects/Formatters/) org.apache.royale.framework:Formatters:swc:0.9.8
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Royale: Framework: Libs: Graphics (https://www.apache.org/royale-framework-parent/frameworks/projects/Graphics/) org.apache.royale.framework:Graphics:swc:0.9.8
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Royale: Framework: Libs: HTML (https://www.apache.org/royale-framework-parent/frameworks/projects/HTML/) org.apache.royale.framework:HTML:swc:0.9.8
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Royale: Framework: Libs: Icons (https://www.apache.org/royale-framework-parent/frameworks/projects/Icons/) org.apache.royale.framework:Icons:swc:0.9.8
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Royale: Framework: Libs: Jewel (https://www.apache.org/royale-framework-parent/frameworks/projects/Jewel/) org.apache.royale.framework:Jewel:swc:0.9.8
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Royale: Framework: Themes: JewelTheme (https://www.apache.org/royale-framework-parent/frameworks/themes/JewelTheme/) org.apache.royale.framework:JewelTheme:swc:0.9.8
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Royale: Framework: Libs: Language (https://www.apache.org/royale-framework-parent/frameworks/projects/Language/) org.apache.royale.framework:Language:swc:0.9.8
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Royale: TypeDefs: GCL (https://www.apache.org/royale-typedefs-parent/royale-typedefs-gcl/) org.apache.royale.typedefs:royale-typedefs-gcl:swc:0.9.8
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Royale: TypeDefs: JS (https://www.apache.org/royale-typedefs-parent/royale-typedefs-js/) org.apache.royale.typedefs:royale-typedefs-js:swc:0.9.8
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+
+
+
